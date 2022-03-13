@@ -1,0 +1,58 @@
+.header {
+    background-color: black;
+}
+
+
+.header-container {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-top: 7px;
+}
+
+.main-container {
+    background-color: rgb(223, 255, 251);
+    height: 300px;
+}
+
+h1 {
+    padding-top: 70px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.card:last-child {
+    margin-right: 10px;
+}
+
+.footer-container {
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+.footer-container p {
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
